@@ -1,6 +1,6 @@
 skills:
 
-  - name: github.com/vercel-labs/skills/find-skills
+  - name: github.com/vercel-labs/skills/skills/find-skills
     description: "Discover and install skills from the open agent skills ecosystem"
     author: vercel-labs
     tags: [productivity, skills, discovery]
