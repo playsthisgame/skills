@@ -311,3 +311,9 @@ skills:
     author: affaan-m
     tags: [golang, testing, quality]
     featured: true
+
+  - name: github.com/playsthisgame/melon-index/agentic-spec-dev
+    description: "Guidelines for developing with agents"
+    author: playsthisgame
+    tags: [development, agents, quality]
+    featured: true
