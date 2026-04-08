@@ -347,3 +347,9 @@ skills:
     author: jeffallan
     tags: [java, spring-boot, code-generation, rest-api, spring-security, testcontainers]
     featured: true
+
+  - name: github.com/zc277584121/marketing-skills/skills/video-to-gif
+    description: "Convert video files (.mov, .mp4, etc.) to GIF with multiple quality/size variants using FFmpeg"
+    author: zc277584121
+    tags: [video, gif, ffmpeg, conversion]
+    featured: true
