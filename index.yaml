@@ -569,3 +569,9 @@ skills:
     author: github/awesome-copilot
     tags: [ai, evaluation, quality, agentic]
     featured: true
+
+  - name: github.com/forrestchang/andrej-karpathy-skills/skills/karpathy-guidelines
+    description: A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+    author: github.com/forrestchang
+    tags: [ai, insights, guidelines]
+    featured: true
